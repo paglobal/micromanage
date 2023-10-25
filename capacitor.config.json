@@ -1,7 +1,6 @@
 {
   "appId": "tech.paglobal.micromanage",
   "appName": "micromanage",
-  "bundledWebRuntime": false,
   "webDir": "dist",
   "plugins": {
     "SplashScreen": {

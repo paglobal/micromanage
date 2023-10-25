@@ -1,0 +1,7 @@
+{
+  "name": "micromanage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
