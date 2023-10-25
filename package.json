@@ -1,7 +1,7 @@
 {
   "name": "micromanage",
   "version": "1.0.0",
-  "description": "Take control of your life one microsecond at a time.",
+  "description": "Track and manage your activity down to the last microsecond!",
   "main": "index.js",
   "keywords": [
     "capacitor",
