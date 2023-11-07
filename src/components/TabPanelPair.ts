@@ -20,9 +20,11 @@ function TabPanelPair(props: {
     display: "flex",
     justifyContent: "center",
   };
+
   const tabPanelStyles = { width: "100vw", "--padding": "0px" };
 
   const classes = c("tabIcon", "tab");
+
   const styles = html`
     <style>
       sl-tab .${classes.tabIcon} {
