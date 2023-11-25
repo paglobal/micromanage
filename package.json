@@ -17,7 +17,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@capacitor/android": "^5.5.0",
+    "@capacitor/android": "5.5.0",
     "@capacitor/core": "latest",
     "@capacitor/splash-screen": "latest",
     "@shoelace-style/shoelace": "^2.11.2",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "latest",
+    "@ionic/cli": "^7.1.5",
     "ts-lit-plugin": "^2.0.1",
     "typescript": "^5.2.2",
     "vite": "^4.5.0"
